@@ -1,0 +1,4 @@
+*.class
+/SystemaAdministracionLeon/SystemaAdministracionLeon-ejb/target/
+/SystemaAdministracionLeon/SystemaAdministracionLeon-web/target/
+/SystemaAdministracionLeon/SystemaAdministracionLeon-ear/target/
