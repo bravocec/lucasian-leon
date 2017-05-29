@@ -24,7 +24,7 @@ public class UsersBusinessBean implements UsersBusinessBeanRemote {
     public List<Map<String,String>> businessMethod() {       
        List<Map<String,String>> listOfMaps = new ArrayList<>();
        Map<String,String> map = null;
-       final int limit = 1000;
+       final int limit = 1100;
         for(int x = 0 ; x < limit ; x++){
             map = new HashMap<>();
             map.put("usuario",x%2==0 ? "Alan"+x : x%6 == 0 ? "Pedro"+x : "Leroy "+x );
