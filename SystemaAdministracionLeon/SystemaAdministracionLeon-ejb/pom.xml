@@ -6,7 +6,7 @@
     <groupId>com.lucasian</groupId>
     <version>1.0</version>
   </parent>
-
+<!-- Este es un comentario -->
     <groupId>com.lucasian</groupId>
     <artifactId>SystemaAdministracionLeon-ejb</artifactId>
     <version>1.0</version>
